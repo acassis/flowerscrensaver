@@ -1,4 +1,7 @@
 # flowerscrensaver
+
+![Flower Screen Saver](flowerscr.png)
+
 Reimplementation of Windows95/98 OpenGL 3D Flower Screen Saver
 
 This code was created using help from Gemini and Claude.
